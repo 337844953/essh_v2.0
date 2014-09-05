@@ -1,0 +1,119 @@
+
+/* 自定义新增图标 */
+.eu-icon-full_screen{
+    background:url('icons/full_screen.png') no-repeat center center;
+}
+.eu-icon-exit_full_screen{
+    background:url('icons/exit_full_screen.png') no-repeat center center;
+}
+.eu-icon-mini-cancel{
+    background:url('icons/mini_cancel.png') no-repeat center center;
+}
+.eu-icon-essh{
+    background:url('icons/icon_essh.png') no-repeat center center;
+}
+
+.ext-icon-cross {	background: url('icons/extjs_icons/arrow/cross.png') no-repeat ; }
+.ext-icon-zoom {	background: url('icons/extjs_icons/zoom/zoom.png') no-repeat ; }
+.ext-icon-zoom_in {	background: url('icons/extjs_icons/zoom/zoom_in.png') no-repeat ; }
+.ext-icon-zoom_out {	background: url('icons/extjs_icons/zoom/zoom_out.png') no-repeat ; }
+
+
+.eu-icon-next{
+    background:url('icons/next.png') no-repeat center center;
+}
+.eu-icon-gears
+{
+    background:url('icons/extjs_icons/gears.png') no-repeat center center;
+}
+.eu-icon-application{
+    background:url('icons/extjs_icons/application/application.png') no-repeat center center;
+}
+.eu-icon-user{
+    background:url('icons/extjs_icons/user/user.png') no-repeat center center;
+}
+.eu-icon-user_red{
+    background:url('icons/extjs_icons/user/user_red.png') no-repeat center center;
+}
+.eu-icon-lock{
+    background:url('icons/extjs_icons/lock/lock.png') no-repeat center center;
+}
+.eu-icon-group{
+    background:url('icons/extjs_icons/group/group.png') no-repeat center center;
+}
+.eu-icon-date{
+    background:url('icons/extjs_icons/Date/date.png') no-repeat center center;
+}
+.eu-icon-calendar{
+    background:url('icons/extjs_icons/calendar/calendar.png') no-repeat center center;
+}
+.eu-icon-bug{
+    background:url('icons/extjs_icons/bug/bug.png') no-repeat center center;
+}
+.eu-icon-email{
+    background:url('icons/extjs_icons/email/email.png') no-repeat center center;
+}
+.eu-icon-folder{
+    background:url('icons/extjs_icons/folder/folder.png') no-repeat center center;
+}
+.eu-icon-book{
+    background:url('icons/extjs_icons/book.png') no-repeat center center;
+}
+.eu-icon-computer{
+    background:url('icons/extjs_icons/computer.png') no-repeat center center;
+}
+.eu-icon-database{
+    background:url('icons/extjs_icons/database.png') no-repeat center center;
+}
+.eu-icon-disk{
+    background:url('icons/extjs_icons/disk.png') no-repeat center center;
+}
+.eu-icon-help{
+    background:url('icons/extjs_icons/help.png') no-repeat center center;
+}
+.eu-icon-link{
+    background:url('icons/extjs_icons/link.png') no-repeat center center;
+}
+.eu-icon-server{
+    background:url('icons/extjs_icons/server.png') no-repeat center center;
+}
+.eu-icon-film{
+    background:url('icons/extjs_icons/film/film.png') no-repeat center center;
+}
+
+.eu-icon-map{
+    background:url('icons/extjs_icons/map/map.png') no-repeat center center;
+}
+.eu-icon-monitor{
+    background:url('icons/extjs_icons/monitor/monitor.png') no-repeat center center;
+}
+.eu-icon-printer{
+    background:url('icons/extjs_icons/printer/printer.png') no-repeat center center;
+}
+.eu-icon-camera{
+    background:url('icons/extjs_icons/camera/camera.png') no-repeat center center;
+}
+.eu-icon-television{
+    background:url('icons/extjs_icons/television/television.png') no-repeat center center;
+}
+.eu-icon-ipod{
+    background:url('icons/extjs_icons/ipod/ipod.png') no-repeat center center;
+}
+.eu-icon-vcard{
+    background:url('icons/extjs_icons/vcard/vcard.png') no-repeat center center;
+}
+.eu-icon-world{
+    background:url('icons/extjs_icons/world/world.png') no-repeat center center;
+}
+.eu-icon-chart_bar{
+    background:url('icons/extjs_icons/chart/chart_bar.png') no-repeat center center;
+}
+.eu-icon-chart_curve{
+    background:url('icons/extjs_icons/chart/chart_curve.png') no-repeat center center;
+}
+.eu-icon-chart_line{
+    background:url('icons/extjs_icons/chart/chart_line.png') no-repeat center center;
+}
+.eu-icon-chart_pie{
+    background:url('icons/extjs_icons/chart/chart_pie.png') no-repeat center center;
+}
